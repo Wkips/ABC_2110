@@ -5,20 +5,20 @@
     
 
  <section>
- <auteur1>
+ <auteur no="1">
  <nom> SIXX </nom>
  <prenom> NIKKI </prenom>
  
-  </auteur1>
+  </auteur>
   </section>
 
 
   <section>
-  <auteur2>
+  <auteur no="2">
   <nom> MARS </nom>
   <prenom> Mick </prenom>
 
-  </auteur2>
+  </auteur>
    </section>  
  
 
