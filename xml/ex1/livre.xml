@@ -4,23 +4,24 @@
 
     
 
- <section>
+ 
  <auteur no="1">
  <nom> SIXX </nom>
  <prenom> NIKKI </prenom>
  
   </auteur>
-  </section>
 
 
-  <section>
+
+
   <auteur no="2">
   <nom> MARS </nom>
   <prenom> Mick </prenom>
 
   </auteur>
-   </section>  
- 
+
+  <section>
+   
 
 <chapitres no="1"></chapitres>
 <title>
@@ -49,5 +50,39 @@ je suis le premier paragraphe du chapitre 1
     </paragraphe>
 </chapitres>
 
+</section>
+
+
+<section>
+   
+
+    <chapitres no="1"></chapitres>
+    <title>
+        Chapitre 1
+    </title>
+    <paragraphe no="1">
+    je suis le premier paragraphe du chapitre 1
+    
+    </paragraphe>
+    
+    
+    <paragraphe no="2">
+        je suis le deuxieme paragraphe du chapitre 1
+        
+        </paragraphe>
+    
+    <chapitres no="2">
+        <title> Chapitre 2 </title>
+    
+        <paragraphe no="1">
+            Je suis le premier paragraphe du chapitre 2
+        </paragraphe>
+    
+        <paragraphe no="2">
+            Je suis le  deuxieme paragraphe du chapitre 2
+        </paragraphe>
+    </chapitres>
+    
+    </section>
  
  </livre>
