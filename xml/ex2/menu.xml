@@ -2,19 +2,40 @@
 <menu>
     <menu15 no="15">
 
-        <entrée>Carottes</entrée>
+        <entree no="1">Carottes</entree>
 
 
-        <plat>
+        <plat no="1">
             <viande>steak</viande>
             <accompagnement>Frite</accompagnement>   
         </plat>
 
-        <dessert>Tarte</dessert>
+        <dessert no="1">Tarte</dessert>
         </menu15>
 
     <menu20 no="20"></menu20>
-        <entr
+            <entree>
+                <entree no="1">Carottes</entree>
+                <entree no="2">Tomates</entree>
+            </entree>
+        
+        <plat>
+            <plat no="1">
+                <viande>steak</viande>
+                <accompagnement>Frite</accompagnement>  
+            </plat>
+
+            <plat no="2">
+                <viande>poisson</viande>
+                <accompagnement>haricots</accompagnement>  
+            </plat>
+        </plat>
+
+        <dessert>
+            <dessert no="1">Tarte</dessert>
+            <dessert no="2">Mousse chocolat</dessert>
+        </dessert>
+        
 
 
 </menu>
