@@ -13,7 +13,7 @@
         <dessert no="1">Tarte</dessert>
         </menu15>
 
-    <menu20 no="20"></menu20>
+    <menu20 no="20">
             <entree>
                 <entree no="1">Carottes</entree>
                 <entree no="2">Tomates</entree>
@@ -35,7 +35,37 @@
             <dessert no="1">Tarte</dessert>
             <dessert no="2">Mousse chocolat</dessert>
         </dessert>
+    </menu20>
+
+
+<menu30 no="30">
+            <entree>
+                <entree no="1">Carottes</entree>
+                <entree no="2">Tomates</entree>
+                <entree no="3">Bettraves</entree>
+            </entree>
         
+        <plat>
+            <plat no="1">
+                <viande>steak</viande>
+                <accompagnement>Frite</accompagnement>  
+            </plat>
 
+            <plat no="2">
+                <viande>poisson</viande>
+                <accompagnement>haricots</accompagnement>  
+            </plat>
+            <plat no="3">
+                <viande>sanglier</viande>
+                <accompagnement>Pommes de terres roties</accompagnement>  
+            </plat>
+        </plat>
 
+        <dessert>
+            <dessert no="1">Tarte</dessert>
+            <dessert no="2">Mousse chocolat</dessert>
+            <dessert no="3">Creme brulee</dessert>
+        </dessert>
+    </menu30>
+        
 </menu>
