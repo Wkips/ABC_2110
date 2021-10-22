@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<etudiants>
+    <formation>
+        <intitule>CDA</intitule>
+        <mois>16 mois</mois>
+        <debut>18/10/21</debut>
+        <fin>01/04/21</fin>
+    </formation>
+
+    <list type="etudiant">
+        <etudiant no="1">
+            <nom>SIXX</nom>
+            <prenom>Nikki</prenom>
+            <dob>11/12/1958</dob>
+            <email>nsixx@crue.com</email>
+        </etudiant>
+
+        <etudiant no="2">
+            <nom>MARS</nom>
+            <prenom>Mick</prenom>
+            <dob>04/05/1951</dob>
+            <email>mmars@crue.com</email>
+        </etudiant>
+
+        <etudiant no="2">
+            <nom>LEE</nom>
+            <prenom>Tommy</prenom>
+            <dob>03/10/1962</dob>
+            <email>tlee@crue.com</email>
+        </etudiant>
+
+
+
+
+    </list>
+
+</etudiants>
