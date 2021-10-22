@@ -1,9 +1,11 @@
-#h4 {
+h4 {
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Verdana, sans-serif;
+	border-style: double;
+	border-width: 2px;
+	border-color: blue;
 }
 
-#stage {
-	text-align: center;
 }
+h3 {color: red; }
