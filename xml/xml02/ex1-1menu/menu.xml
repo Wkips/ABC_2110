@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<menu>
+    <menu>
+        <entree>
+            <entree no="1">Carottes</entree>
+            <prix no="1">5€</prix>
+            <description no="1">Carottes rapee vinaigrettes</description>
+            <entree no="2">Tomates</entree>
+            <prix no="2">6€</prix>
+            <description no="2">tomates oignon vinaigrettes</description>
+            
+        </entree>
+    
+    <plat>
+        <plat no="1">
+            <viande>steak</viande>
+            <accompagnement>Frite</accompagnement>
+            <prix no="1">50€</prix>
+            <description no="1">steak de boeuf 200g frites surgelé  </description>  
+        </plat>
+
+        <plat no="2">
+            <viande>poisson</viande>
+            <accompagnement>haricots</accompagnement>
+            <prix no="2">40€</prix>
+            <description no="2">dos de cabillaud 150g et ses haricots plats </description>  
+        </plat>
+        <plat no="3">
+            <viande>sanglier</viande>
+            <accompagnement>Pommes de terres roties</accompagnement>
+            <prix no="3">60€</prix>
+            <description no="3">gigue de sanglier avec sa sauce champignon et pattates roties  </description>  
+        </plat>
+    </plat>
+
+    <dessert>
+        <dessert no="1">Tarte</dessert>
+        <prix no="1">5€</prix>
+        <description no="1">Tarte au concombre :=)</description>
+
+        <dessert no="2">Mousse chocolat</dessert>
+        <prix no="2">6€</prix>
+        <description no="2">Mousse au chocolat accompagnée de sa petite cuillere </description>
+        
+    </dessert>
+</menu>
+
+
+</menu>
