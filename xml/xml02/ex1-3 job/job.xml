@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
- 
+ <list type="offres">
+    <offre no="1">Develloppeur PHP</offre>
+    <offre no="2">Develloppeur JAVA</offre>
+    <offre no="3">Develloppeur NodeJS</offre>
+ </list>
