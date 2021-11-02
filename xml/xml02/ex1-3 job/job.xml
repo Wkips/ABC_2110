@@ -14,7 +14,10 @@
 
             <list type="competence" no="1">
                <competence no="1">Adaptation</competence>
-                <competence no="1">Travailler sous pression</competence>
+                <competence no="2">Travailler sous pression</competence>
+                <competence no="3">Maitrise des langues</competence>
+                <competence no="4">Respect des delai</competence>
+                <competence no="5">Rigueur</competence>
         </list>
 
     <offre no="2">Develloppeur JAVA</offre>
