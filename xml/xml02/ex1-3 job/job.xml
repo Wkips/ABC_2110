@@ -4,8 +4,11 @@
         <intitule no="1">Devellopeur PHP</intitule>
         <ville no="1">Mulhouse</ville>
         <list type="description" no="1">
-            
-        </description>
+            <taches no="1">Construction de sites web dynamiques</taches>
+            <taches no="2">Rediger documentation technique</taches>
+
+            <avantages no="1">Perpetuelle evolutuion</avantages>
+        </list>
     <offre no="2">Develloppeur JAVA</offre>
     <offre no="3">Develloppeur NodeJS</offre>
  </list>
