@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <list type="offres">
     <offre no="1">Develloppeur PHP</offre>
+        <intitule no="1">Devellopeur PHP</intitule>
+        <ville no="1">Mulhouse</ville>
+        <list type="description" no="1">
+            
+        </description>
     <offre no="2">Develloppeur JAVA</offre>
     <offre no="3">Develloppeur NodeJS</offre>
  </list>
