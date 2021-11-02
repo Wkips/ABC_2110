@@ -20,6 +20,12 @@
                 <competence no="5">Rigueur</competence>
         </list>
 
+
+            <date no="1">Date de démarrage 01/01/22</date>
+            <salaire no="1">Salaire annuel : 50K a 65K senior</salaire>
+            <email no="1">contact@php.com</email>
+
+            
     <offre no="2">Develloppeur JAVA</offre>
     <offre no="3">Develloppeur NodeJS</offre>
  </list>
