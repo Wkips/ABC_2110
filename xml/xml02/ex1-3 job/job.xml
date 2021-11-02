@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <list type="offres">
+     
     <offre no="1">Develloppeur PHP</offre>
         <intitule no="1">Devellopeur PHP</intitule>
         <ville no="1">Mulhouse</ville>
@@ -8,8 +9,14 @@
             <taches no="2">Rediger documentation technique</taches>
 
             <avantages no="1">Perpetuelle evolutuion</avantages>
-            <profile no="1"> </profile>
+            <avantages no="2">Travail d'equipe</avantages>
+    </list>
+
+            <list type="competence" no="1">
+               <competence no="1">Adaptation</competence>
+                <competence no="1">Travailler sous pression</competence>
         </list>
+
     <offre no="2">Develloppeur JAVA</offre>
     <offre no="3">Develloppeur NodeJS</offre>
  </list>
