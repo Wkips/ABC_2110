@@ -31,5 +31,52 @@ header h1 { font-family :'Times New Roman', Times, serif;
     margin-right: 5px;
     text-align: justify;
     padding-left: 5%;}
+
 #competence h2 {text-align: center; font-weight: bold;
      text-decoration:underline;}
+
+#etudes {font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #000000;
+    background-color : #e9e8e8;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    padding-left: 5%;}
+
+#etudes h2 {text-align: center; font-weight: bold;
+    text-align: center; text-decoration: underline;}
+
+#emploi {font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #000000;
+    background-color : #e9e8e8;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    padding-left: 5%;}
+
+#emploi h2 {text-align: center; font-weight: bold;
+    text-align: center; text-decoration: underline;}
+
+#langues {font-family: 'Times New Roman', Times, serif;
+        border: 2px solid #000000;
+        background-color : #e9e8e8;
+        margin-left: 5px;
+        margin-right: 5px;
+        text-align: justify;
+        padding-left: 5%;}
+    
+#langues h2 {text-align: center; font-weight: bold;
+        text-align: center; text-decoration: underline;}
+
+#interets {font-family: 'Times New Roman', Times, serif;
+            border: 2px solid #000000;
+            background-color : #e9e8e8;
+            margin-left: 5px;
+            margin-right: 5px;
+            text-align: justify;
+            padding-left: 5%;}
+        
+#interets h2 {text-align: center; font-weight: bold;
+            text-align: center; text-decoration: underline;}
+
+#PDF {text-align: center; }
