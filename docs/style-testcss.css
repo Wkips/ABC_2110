@@ -8,13 +8,13 @@ header h1 { font-family :'Times New Roman', Times, serif;
             border-radius: 50%;
             padding: 5%;}
 
-.style {font-family: 'Times New Roman', Times, serif;
+.nom {font-family: 'Times New Roman', Times, serif;
         font-size: 15px; ;
     border: 2px solid #000000;
     background-color : #8f8b8b;
     margin-left: 5px;
     margin-right: 5px;
-    text-align: justify; color: whitesmoke;
+    text-align: justify; color: rgb(82, 31, 31);
     padding-left: 5%;
     margin-bottom: 2.5px;
     margin-bottom: 2.5px;}
@@ -36,6 +36,8 @@ h2 {text-align: center;color: black;
         margin-right: 5px;}
 
 
-
-
+#text {font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: violet;
+font: size 15px;;}
 #PDF {text-align: center; }
