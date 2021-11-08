@@ -19,9 +19,14 @@ header h1 { font-family :'Times New Roman', Times, serif;
     margin-bottom: 2.5px;
     margin-bottom: 2.5px;}
 
-.border {border: 2px solid black;
+.accroche {text-align: center;}
+
+.border {;
+        border: 2px solid black;
         margin-left: auto;
-        background-color : #8f8b8b;}
+        background-color : #8f8b8b;
+        margin-top: 5px;
+        margin-bottom: 5px;}
 
 h2 {text-align: center;color: black;
     font-weight: bold;
@@ -36,8 +41,8 @@ h2 {text-align: center;color: black;
         margin-right: 5px;}
 
 
-#text {font-family: 'Times New Roman', Times, serif;
+.text {font-family: 'Times New Roman', Times, serif;
     text-align: justify;
-    color: violet;
+    color: white;
 font: size 15px;;}
 #PDF {text-align: center; }
