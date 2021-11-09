@@ -23,14 +23,22 @@ header h1 {text-align: center;color: black;
 
 
 
-.border {
+.border {display: inline-block;
+        width: 25%;
         border: solid 3px black ;
         color: white;
         margin: 5px;padding: 2.5px;
         background-color: rgb(97, 90, 90);
+        border-radius: 5%;
 } 
 
 
-.text {text-align: left; color: whitesmoke ;font-size: 15px;}  
+.text {text-align: left; color: whitesmoke ;font-size: 20px;}  
 
 .accroche {text-align: center;}
+
+#email { font-family: 'Times New Roman', Times, serif; color: whitesmoke;}
+#email:visited {color: whitesmoke;}
+
+#PDF {text-align: center;}
+
