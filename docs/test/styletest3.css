@@ -23,8 +23,8 @@ header h1 {text-align: center;color: black;
 
 
 
-.border {display: inline-block;
-        width: 25%;
+.border {display: flex;
+        width: 50%;
         border: solid 3px black ;
         color: white;
         margin: 5px;padding: 2.5px;
@@ -42,3 +42,11 @@ header h1 {text-align: center;color: black;
 
 #PDF {text-align: center;}
 
+.competence {}
+
+.img {display: flex;
+        border: solid 2px black ;
+        width: 25%;
+        padding: 2px;
+        margin: 2px;
+        background-color: blanchedalmond;}
