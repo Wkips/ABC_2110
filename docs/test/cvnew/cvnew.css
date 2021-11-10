@@ -1,0 +1,16 @@
+body {background-color: rgb(161, 161, 161);}
+.header {width: 100%;}
+
+h1 {text-align: center;
+    text-decoration: underline;
+    border: solid 2 px black;
+    width:100%}
+.id { font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; color:blue ;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    width: 25%;
+}
+
+img {border: solid 2px black;}
+

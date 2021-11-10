@@ -1,4 +1,6 @@
-.container { display: flex;
+.container { display:flex;
+  justify-content: space-around;
 }
 
-.item { border: solid 2px black;}
+
+.item {border: 2px solid black;} 

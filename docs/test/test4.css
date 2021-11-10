@@ -1,0 +1,17 @@
+body {background-color: grey;}
+.img {border: solid 2px black   ;}
+.container { display: flexbox;
+            justify-content:;}
+.border {border: solid 2px black;
+        width: 25%;
+        height: 25%;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 20%;}
+
+h2{text-align: center;
+    text-decoration: underline;}
+
+
+
+.text {padding-left: 3%;}
