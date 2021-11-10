@@ -14,3 +14,47 @@ h1 {text-align: center;
 
 img {border: solid 2px black;}
 
+.container { display: flex;
+            margin-top: 2px;
+            border: 2px solid black;}
+
+h2 {border: black 2px black;
+    text-align: center;
+    text-decoration: underline;}
+
+ .competence {font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; color:blue ;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    width: 25%;}   
+
+.langues {font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; color:blue ;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    width: 25%;}
+
+    .langues {font-family: 'Times New Roman', Times, serif;
+        font-size: 20px; color:blue ;
+        border: 2px solid black;
+        background-color: blanchedalmond;
+        width: 25%;}
+
+        .emploi {font-family: 'Times New Roman', Times, serif;
+            font-size: 20px; color:blue ;
+            border: 2px solid black;
+            background-color: blanchedalmond;
+            width: 25%;}
+
+    .etudes {font-family: 'Times New Roman', Times, serif;
+        font-size: 20px; color:blue ;
+        border: 2px solid black;
+        background-color: blanchedalmond;
+        width: 25%;}
+
+
+        .pp { display: flex;
+            margin-top: 2px;
+            border: 2px solid black;}
+
+    #PDF {text-align: center;}
