@@ -1,0 +1,41 @@
+body {background-color: #c7c4c4;}
+
+header h1 { font-family :'Times New Roman', Times, serif;
+            font-weight: bold ;
+            text-decoration: underline;
+            text-align: center;
+            border: black 2px solid; background-color :#8f8b8b;
+            border-radius: 50%;
+            padding: 5%;}
+
+.style {font-family: 'Times New Roman', Times, serif;
+        font-size: 15px; ;
+    border: 2px solid #000000;
+    background-color : #8f8b8b;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify; color: whitesmoke;
+    padding-left: 5%;
+    margin-bottom: 2.5px;
+    margin-bottom: 2.5px;}
+
+.border {border: 2px solid black;
+        margin-left: auto;
+        background-color : #8f8b8b;}
+
+h2 {text-align: center;color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    }
+
+
+
+
+    #img       {    border: 2px solid #000000;
+        margin-left: 5px;
+        margin-right: 5px;}
+
+
+
+
+#PDF {text-align: center; }
