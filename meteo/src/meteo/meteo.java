@@ -19,9 +19,10 @@ public class meteo {
 		// Traitement
 		
 		if (t<2)  {System.out.println("risque de verglas");}
-		
+		if (t>=2) {System.out.println("Il fait bon");}
+		if (t>30) {System.out.println("il fait trop chaud");}
 			
-		else {System.out.println("tous vas bien");
+		else if (t>1) {System.out.println("tous vas bien");
 		}
 		
 
