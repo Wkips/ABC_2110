@@ -1,14 +1,9 @@
+package projetcast;
 
-public class nombrepremier {
+public class testcast {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		//declaration des variables
-		
-		int n;
-		
-		
 
 	}
 

@@ -30,7 +30,7 @@ public class moyenneif {
 		System.out.println("Vous avez saisie nombre 2 = "+nombre2);
 				
 		//traitement
-				
+		
 		moyenne =(nombre1+nombre2)/2;
 		
 		//Si (moyenne >=10) Alors
@@ -39,9 +39,12 @@ public class moyenneif {
 		}
 		//SINON
 		else {moyenne = moyenne + 1;
-		
+		//FINSI
 		}
 		
+		if (moyenne <10) {
+			moyenne = moyenne +1;
+		}
 		//affichage
 				
 		//ecrire "la valeur de la moyenne est : ",moyenne
