@@ -34,6 +34,8 @@ public class Moyenne {
 		
 		//ecrire "la valeur de la moyenne est : ",moyenne
 		System.out.println("La valeur de la moyenne est : "+moyenne);
+		
+		
 	} 
 	
 
