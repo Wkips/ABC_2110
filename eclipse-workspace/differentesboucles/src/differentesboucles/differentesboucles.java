@@ -7,7 +7,7 @@ public class DifferentesBoucles {
 	
 	
     public static void main(String[] args) {
-    /*    // TODO Auto-generated method stub
+        // TODO Auto-generated method stub
     //tant que
     /*
     Chaine ilFaitBeau
@@ -83,6 +83,7 @@ public class DifferentesBoucles {
         //revenir du fond de la salle
     finpour
     */
-    */
+    
     }
+    
 }
