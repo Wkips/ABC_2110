@@ -11,6 +11,8 @@ public class ennonce9ex1 {
 		Scanner sc= new Scanner(System.in);
 		
 		
+		
+		
 
 	}
 
