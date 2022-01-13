@@ -8,7 +8,7 @@ public class dowhile {
 		// TODO Auto-generated method stub
 		Scanner test = new Scanner (System.in);
 		
-		float solde;
+		int solde;
 		
 		do {
 			System.out.println("quel est votre solde");
