@@ -25,7 +25,7 @@ if (mercredi.equals("oui")){
 System.out.println("sommes nous jeudi  oui / non ");
 jeudi = sc.next(); 
 if (jeudi.equals("oui")){
-	
+
 	
 System.out.println("vous avez  20%");
 
