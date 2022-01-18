@@ -14,6 +14,7 @@ public class jaloncoiffeur {
 
 		System.out.println("Etes vous etudiants   oui / non ");
 		Scanner sc = new Scanner (System.in);
+
 		etudiant = sc.next();
 
 		if  (etudiant.equals("oui")) {
@@ -22,29 +23,29 @@ public class jaloncoiffeur {
 			mercredi = sc.next();
 
 			if (mercredi.equals("oui")){
-				System.out.println("Vouas avez 50%");
+				System.out.println("Vous avez 50%");
+
+
+			}	
+			else  {
+
+
+
+
+				System.out.println("sommes nous jeudi  oui / non ");
+				jeudi = sc.next(); 
+				if (jeudi.equals("oui")) {
+
+					System.out.println("vous avez  20%");
+				}
+				else {
+					System.out.println("vous avez pas reduction");
+				}
 			}
-			else if (mercredi.equals("non")){
-				System.out.println("vous avez pas reduction");}
-
-
-
-
-			System.out.println("sommes nous jeudi  oui / non ");
-			jeudi = sc.next(); 
-			if (jeudi.equals("oui"))
-
-				System.out.println("vous avez  20%");
-
-			else if (jeudi.equals("non")){
-				System.out.println("vous avez pas reduction");}
-
 		}
 
-	
 
-	System.out.println("sortez la CB");
-}
-}
 
+		System.out.println("Sortez la CB");
+	}}
 
