@@ -9,7 +9,6 @@ public class diviseur {
 		int i; 
 		int nombre1;
 		int nombre2;
-		int resultat;
 		Scanner sc = new Scanner(System.in);
 
 		/*Afficher les nombres de 1 à 20 */
@@ -27,9 +26,11 @@ public class diviseur {
 		System.out.println("Veuillez entrez le nombre 1 et le nombre2");
 		nombre1 = sc.nextInt();
 		nombre2 = sc.nextInt();
-		i = sc.nextInt();
-		for (nombre1=i; nombre2<=i;) {
-	 System.out.println(i);
+		//i = sc.nextInt();
+		for (i = nombre1; i <= nombre2; i++) {
+				System.out.println(i);
 		
-		}}}
+		}
+	}
+}
 	
