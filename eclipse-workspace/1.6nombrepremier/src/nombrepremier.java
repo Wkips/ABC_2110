@@ -9,26 +9,52 @@ public class nombrepremier {
 		Scanner sc= new Scanner (System.in);
 		
 		int nombre1;
+		int somme;
+		boolean premier;
 		
-		System.out.println("Veuillez entrer le nombre1");
+		System.out.println("Veuillez entrer un nombre");
 		nombre1= sc.nextInt();
 		
-		if (nombre1<2) {
-			System.out.println("nombre1 n'est pas un nombre premier");
+		if (nombre1<=2) {
+			System.out.println( "1 est un nombre premier");
+			
 			
 		}
 		else {
-			System.out.println("nombre1 est un nombre permier");
-		}
-		//if (nombre1%nombre1==1) {
-			//System.out.println("C'est un nombre premier");
+		premier=true;
+			
+		for (int i = 2; i <= nombre1-1; i++) {
+			
+			if(nombre1 % i==0)
+			{
+				
+				premier=false;
+				System.out.println(i);
+				break;
+				
+			}
+			
 			
 		}
-		//else {
-		//	System.out.println("Ce n'este pas un nombre 1er ");
 		
+		if (premier==true) { System.out.println( nombre1 +" : c'est un nombre premier!");
+			
+		} else { 
+			
+			System.out.println( nombre1+": Ce n'est pas un nombre premier!");
 
 		}
+			
+			
+			
+			
+		}
+			
+			
+			
+	}
 	
+}
+
 
 
