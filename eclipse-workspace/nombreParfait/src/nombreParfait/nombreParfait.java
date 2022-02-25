@@ -11,33 +11,34 @@ public class nombreParfait {
 		Scanner sc = new Scanner (System.in);
 		int combien;
 		int nombre;
-		int somme = 0;
+
 
 
 		System.out.println("Combien de nombres voulez vous afficher");
 		combien = sc.nextInt();
 		for (int i = 0;i<=combien;i++) 		
-		{
+		{System.out.println(i);
 
-			
 
 		nombre = sc.nextInt();
 		for (i=1; i<nombre;i++) 
-		{
+		
+		{	int somme = sc.nextInt();
+		
+
 
 			if (nombre%i==0) 
 			{
-				System.out.println(i);
-			}
 
-			}
+
 		}
-
-	}
-}
+		}}}}
 
 
-/*On souhaite écrire un programme de calcul des Npremiers nombres parfaits.
+
+
+
+/*On souhaite écrire un programme de calcul des N premiers nombres parfaits.
  *  Un nombre est dit parfait s’il est égal à la somme de ses diviseurs, 1 compris.  
  *  Exemple:6= 1+2+3 6estun nombre parfait.  
  *  L'algorithme  retenu  contiendra  deux  boucles  imbriquées. 
