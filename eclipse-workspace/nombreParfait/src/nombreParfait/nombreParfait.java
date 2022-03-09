@@ -16,8 +16,8 @@ public class nombreParfait {
 
 		System.out.println("Combien de nombres voulez vous afficher");
 		combien = sc.nextInt();
-		for (int i = 0;i<=combien;i++) 		
-		{System.out.println(i);
+		for (int i = 0;i<=combien;i++) {		
+		System.out.println(i);
 
 
 		nombre = sc.nextInt();
@@ -32,7 +32,10 @@ public class nombreParfait {
 
 
 		}
-		}}}}
+		}
+		}
+	}
+}
 
 
 
