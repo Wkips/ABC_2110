@@ -22,13 +22,13 @@ public class nombreParfait {
 
 		nombre = sc.nextInt();
 		for (i=1; i<nombre;i++) 
-		
+
 		{	int somme = sc.nextInt();
-		
 
 
-			if (nombre%i==0) 
-			{
+
+		if (nombre%i==0) 
+		{
 
 
 		}
