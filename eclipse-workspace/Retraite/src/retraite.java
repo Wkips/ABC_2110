@@ -22,7 +22,8 @@ public class retraite {
 		//traitement calcul
 		if (ageActuel>60){
 			int differenceAge = (ageActuel-60);
-			return"vous etes a la retraite depuis" + differenceAge + "annee";
+			String sentence = String.format("vous etes a la retraite depuis %d années. vous avez %d ans", differenceAge, ageActuel);
+			return sentence;
 		}
 		if (ageActuel==60) {
 			return "vous etes a la retraite";
