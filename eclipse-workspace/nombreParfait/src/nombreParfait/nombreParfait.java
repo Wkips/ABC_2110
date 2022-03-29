@@ -48,7 +48,7 @@ public class nombreParfait {
  *   Une  boucle  de  comptage  des  nombres  parfaits  
  *  qui s'arrêtera lorsque le décompte sera atteint,
  *   la boucle interne ayant vocation à calculer tous les diviseurs du
- *   nombre examiné d'en faire la somme puis detester l'égalité entre cette somme et le nombre.   
+ *   nombre examiné d'en faire la somme puis de tester l'égalité entre cette somme et le nombre.   
  *   
  *   Ecrivez le programme complet qui afficheles N premiers nombres parfaits.Exemple d’affichage en mode Console:Programme de
  *    recherche des nombresparfaits.Combien de nombre parfaits souhaitez-vous afficher?4  
