@@ -13,21 +13,27 @@ public class ta31 {
 		Scanner sc = new Scanner(System.in);
 
 
-
-
-
-		for  (int i=0; i<nombres.length; i++)	{
-			//System.out.println(nombres[i]);	
-
-
+		boolean finded = false;
+		do {
 			System.out.println("Veuillez saisir un nombre");
 			nbSaisie=sc.nextInt();
-			if (nbSaisie == nombres[i++]) {
-				System.out.println("correspondant");
+			int i = 0;
+			while (i<nombres.length && !finded)	{
+			
+	
+	
+				
+				if (nbSaisie == nombres[i]) {
+					finded = true;
+				}
+				i++;
+				
 			}
-			else {
-				System.out.println("Non trouve");
+			if (!finded) {
+				System.out.println("Non trouvé");
+			} else {
+				System.out.println("trouvé");
 			}
-		}
+		} while(!finded);
 	}
 }
